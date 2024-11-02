@@ -1,0 +1,8 @@
+{
+    "name": "lcgithubdev/zodphp",
+    "autoload": {
+        "psr-4": {
+            "LCGH\\Zod\\": "src"
+        }
+    }
+  }
